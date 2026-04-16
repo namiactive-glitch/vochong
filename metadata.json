@@ -1,5 +1,6 @@
 {
-  "name": "HÀI VỢ CHỒNG AI ENGINE",
+  "name": "HÀI VỢ CHỒNG ( Final )",
   "description": "Hệ thống tạo prompt video hài hước vợ chồng chuyên nghiệp dành cho học viên.",
-  "requestFramePermissions": []
+  "requestFramePermissions": [],
+  "majorCapabilities": []
 }
